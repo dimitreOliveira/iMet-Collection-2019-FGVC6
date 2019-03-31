@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/visipedia/imet-fgvcx/master/assets/banner.png)
+![](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Assets/banner.png)
 
 ## About the repository
 
