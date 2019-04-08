@@ -15,7 +15,6 @@
 
 - ### Deep Learning
 
-    - #### [[1st iteration] - ???]()
-        - Obs:
-        - Metrics:
-            - Score: Train: 0.00 Validation: 0.00 Test: 0.00
+|Model|Train|Validation|Test|Link|
+|-----|-----|----------|----|----|
+|1st iteration|???|???|???|[Link]()|
