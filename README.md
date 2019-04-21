@@ -4,6 +4,7 @@
 
 ### My published Kaggle kernels:
 - [iMet Collection 2019 - EDA & Keras](https://www.kaggle.com/dimitreoliveira/imet-collection-2019-eda-keras)
+- [iMet - Keras pretrained model as feature extractor](https://www.kaggle.com/dimitreoliveira/imet-keras-pretrained-model-as-feature-extractor)
 
 ### What you will find
 
