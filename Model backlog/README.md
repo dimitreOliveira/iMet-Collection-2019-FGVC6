@@ -53,7 +53,8 @@
         |[33th] - Fine-tune - VGG16 - Top conv|???|???|0.45|???|15714.9|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B33th%5D%20-%20Fine-tune%20-%20VGG16%20-%20Top%20conv.ipynb)|
         |[34th] - Fine-tune - VGG16 - head|???|???|???|0.297|4621.5|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B34th%5D%20-%20Fine-tune%20-%20VGG16%20-%20head.ipynb)|
         |[35th] - Fine-tune - VGG16 - Top Conv 2|???|???|???|???|7078.5|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B35th%5D%20-%20Fine-tune%20-%20VGG16%20-%20Top%20Conv%202.ipynb)|
-    
+        |[45th] - Fine-tune - VGG16 - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B45th%5D%20-%20Fine-tune%20-%20VGG16%20-%20Top%20conv.ipynb)|
+
     - #### VGG19
     
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
@@ -61,7 +62,8 @@
         |[19th] - DL - Bottleneck VGG19|???|???|0.215|???|3493.4|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B19th%5D%20-%20DL%20-%20Bottleneck%20VGG19.ipynb)|
         |[25th] - Bottleneck VGG19 - Adam - Big|???|???|0.457|???|1715.5|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B25th%5D%20-%20Bottleneck%20VGG19%20-%20Adam%20-%20Big.ipynb)|
         |[36th] - Fine-tune - VGG19 - head|???|???|???|0.29|4616.7|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B36th%5D%20-%20Fine-tune%20-%20VGG19%20-%20head.ipynb)|
-    
+        |[46th] - Fine-tune - VGG19 - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B46th%20iteration%5D%20-%20Fine-tune%20-%20VGG19%20-%20Top%20conv.ipynb)|
+
     - #### InceptionV3
     
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
@@ -74,38 +76,46 @@
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
         |-----|-----|----------|--------------|--------------|---------|-----|
         |[38th] - Fine-tune - Xception - head|???|???|???|???|7076.7|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B38th%5D%20-%20Fine-tune%20-%20Xception%20-%20head.ipynb)|
-    
+        |[47th] - Fine-tune - Xception - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B47th%5D%20-%20Fine-tune%20-%20Xception%20-%20Top%20conv.ipynb)|
+
     - #### ResNet50
     
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
         |-----|-----|----------|--------------|--------------|---------|-----|
         |[39th] - Fine-tune - ResNet50 - head|???|???|???|???|4666.7|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B39th%5D%20-%20Fine-tune%20-%20Xception%20-%20head.ipynb)|
+        |[48th] - Fine-tune - ResNet50 - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B48th%5D%20-%20Fine-tune%20-%20ResNet50%20-%20Top%20conv.ipynb)|
 
     - #### MobileNetV2
 
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
         |-----|-----|----------|--------------|--------------|---------|-----|
         |[40th] - Fine-tune - MobileNetV2 - head|???|???|???|???|5486.2|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B40th%5D%20-%20Fine-tune%20-%20MobileNetV2%20-%20head.ipynb)|
+        |[49th] - Fine-tune - MobileNetV2 - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B49th%5D%20-%20Fine-tune%20-%20MobileNetV2%20-%20Top%20conv.ipynb)|
 
     - #### DenseNet121
     
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
         |-----|-----|----------|--------------|--------------|---------|-----|
         |[41th] - Fine-tune - DenseNet121 - head|???|???|???|???|9256|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B41th%5D%20-%20Fine-tune%20-%20DenseNet121%20-%20head.ipynb)|
-            
+        |[50th] - Fine-tune - DenseNet121 - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B50th%5D%20-%20Fine-tune%20-%20DenseNet121%20-%20Top%20conv.ipynb)|
+   
     - #### DenseNet169
     
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
         |-----|-----|----------|--------------|--------------|---------|-----|
         |[42th] - Fine-tune - DenseNet169 - head|???|???|???|???|10790|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B42th%5D%20-%20Fine-tune%20-%20DenseNet169%20-%20head.ipynb)|
+        |[51th] - Fine-tune - DenseNet169 - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B51th%5D%20-%20Fine-tune%20-%20DenseNet169%20-%20Top%20conv.ipynb)|
 
     - #### NasNetLarge
     
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
         |-----|-----|----------|--------------|--------------|---------|-----|
         |[43th] - Fine-tune - NasNetLarge - head|???|???|???|???|9221.4|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B43th%5D%20-%20Fine-tune%20-%20NasNetLarge%20-%20head.ipynb)|
-            
+        |[52th] - Fine-tune - NasNetLarge - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B52th%5D%20-%20Fine-tune%20-%20NasNetLarge%20-%20Top%20conv.ipynb)|
+        
     - #### NasNetMobile
 
         |Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|Runtime(s)|Link|
         |-----|-----|----------|--------------|--------------|---------|-----|
+        |[44th] - Fine-tune - NasNetMobile - head|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B44th%5D%20-%20Fine-tune%20-%20NasNetMobile%20-%20head.ipynb)|
+        |[53th] - Fine-tune - NasNetMobile - Top conv|???|???|???|???|???|[Link](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B53th%5D%20-%20Fine-tune%20-%20NasNetMobile%20-%20Top%20conv.ipynb)|
