@@ -62,6 +62,7 @@
 |[116th] - Fine-tune - VGG16 - Complete 2 Opt|???|0.447|0.449|???|12333.7|
 |[125th] - Fine-tune - VGG16 - Complete 2 Opt2|???|0.454|0.457|???|12635.2|
 |[126th] - Fine-tune - VGG16 - Complete Adam 128|???|0.479|0.482|???|13591.52|
+|[135th] - Fine-tune - VGG16 - Original size|???|0.490|0.490|???|121595.2|
 
 #### VGG19
     
@@ -80,6 +81,7 @@
 |[108th] - Fine-tune - VGG19 - Complete SGD|???|0.291|0.279|???|7914.4|
 |[117th] - Fine-tune - VGG19 - Complete 2 Opt|???|0.443|0.444|???|17036.3|
 |[127th] - Fine-tune - VGG19 - Complete Adam 128|???|0.467|0.477|???|18643.6|
+|[136th] - Fine-tune - VGG19 - Original size|???|0.478|0.481|???|22742.4|
 
 
 #### InceptionV3
@@ -104,6 +106,7 @@
 |[109th] - Fine-tune - Xception - Complete SGD|???|0.244|0.226|???|8630.9|
 |[118th] - Fine-tune - Xception - Complete 2 Opt|???|0.447|0.454|???|18949|
 |[128th] - Fine-tune - Xception - Complete Adam 128|???|0.498|0.504|???|20561.2|
+|[137th] - Fine-tune - Xception - Original size |???|0.417|0.418|???|25167.6|
 
 #### ResNet50
     
@@ -120,6 +123,7 @@
 |[110th] - Fine-tune - ResNet50 - Complete SGD|???|0.358|0.352|???|8629.6|
 |[119th] - Fine-tune - ResNet50 - Complete 2 Opt|???|0.456|0.461|???|16717.7|
 |[129th] - Fine-tune - ResNet50 - Complete Adam 128|???|0.471|0.474|???|14285|
+|[138th] - Fine-tune - ResNet50 - Original size|???|0.439|0.434|???|10461.8|
 
 #### MobileNetV2
 
@@ -136,6 +140,7 @@
 |[111th] - Fine-tune - MobileNetV2 - Complete SGD|???|0.378|0.378|???|11977.1|
 |[120th] - Fine-tune - MobileNetV2 - Complete 2 Opt|???|0.470|0.475|???|22509.4|
 |[130th] - Fine-tune - MobileNetV2 - Complete Adam 128|???|0.480|0.484|???|11453.8|
+|[139th] - Fine-tune - MobileNetV2 - Original size|???|0.490|0.495|???|19120.6|
 
 #### DenseNet121
     
@@ -151,7 +156,8 @@
 |[103th] - Fine-tune - DenseNet121 - Complete Adam2|???|0.470|0.476|???|32304|
 |[112th] - Fine-tune - DenseNet121 - Complete SGD|???|0.366|0.363|???|17562.8|
 |[121th] - Fine-tune - DenseNet121 - Complete 2 Opt|???|0.470|0.479|???|28894.8|
-|[131th] - Fine-tune - DenseNet121 - Complete Adam 128|???|0.494|000|???|17732.5|
+|[131th] - Fine-tune - DenseNet121 - Complete Adam 128|???|0.494|0.5|???|17732.5|
+|[140th] - Fine-tune - DenseNet121 - Original size|???|0.393|0.386|???|11661.8|
 
 #### DenseNet169
     
@@ -167,7 +173,8 @@
 |[104th] - Fine-tune - DenseNet169 - Comple Adam2|???|0.480|0.490|???|25554.1|
 |[113th] - Fine-tune - DenseNet169 - Complete SGD|???|0.372|0.366|???|18395.9|
 |[122th] - Fine-tune - DenseNet169 - Complete 2 Opt|???|0.460|0.468|???|26055.6|
-|[132th] - Fine-tune - DenseNet169 - Complete Adam 128|???|0.498|000|???|20004.2|
+|[132th] - Fine-tune - DenseNet169 - Complete Adam 128|???|0.498|0.507|???|20004.2|
+|[141th] - Fine-tune - DenseNet169 - Original size|???|0.405|0.404|???|12160|
 
 #### NasNetLarge
     
@@ -183,7 +190,8 @@
 |[105th] - Fine-tune - NasNetLarge - Complete Adam2|???|0.468|0.481|???|31973.1|
 |[115th] - Fine-tune - NasNetLarge - Complete SGD|???|0.321|0.314|???|21982.9|
 |[124th] - Fine-tune - NasNetLarge - Complete 2 Opt|???|0.409|0.409|???|23384.3|
-|[133th] - Fine-tune - NasNetLarge - Complete Adam 128|???|0.325|000|???|14925.4|
+|[133th] - Fine-tune - NasNetLarge - Complete Adam 128|???|0.325|0.315|???|14925.4|
+|[142th] - Fine-tune - NasNetLarge - Original Size|???|0.410|0.409|???|31045.7|
 
 #### NasNetMobile
 
@@ -199,4 +207,5 @@
 |[106th] - Fine-tune - NasNetMobile - CompleteAdam2|???|0.445|0.448|???|20915.5|
 |[114th] - Fine-tune - NasNetMobile - Complete SGD|???|0.272|0.261|???|15163.7|
 |[123th] - Fine-tune - NasNetMobile - Complete 2 Op|???|0.423|0.425|???|22051.6|
-|[134th] - Fine-tune - NasNetMobile - Complete Adam 128|???|0.467|000|???|27208.3|
+|[134th] - Fine-tune - NasNetMobile - Complete Adam 128|???|0.467|0.437|???|27208.3|
+|[143th] - Fine-tune - NasNetMobile - Original Size|???|0.492|0.501|???|27742.4|
