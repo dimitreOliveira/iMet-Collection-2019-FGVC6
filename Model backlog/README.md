@@ -141,6 +141,9 @@
 |[120th] - Fine-tune - MobileNetV2 - Complete 2 Opt|???|0.470|0.475|???|22509.4|
 |[130th] - Fine-tune - MobileNetV2 - Complete Adam 128|???|0.480|0.484|???|11453.8|
 |[139th] - Fine-tune - MobileNetV2 - Original size|???|0.490|0.495|???|19120.6|
+|[144th] - MobileNetV2 - Original Size - Warmup|???|0.494|0.497|???|14400.8|
+|[139th] - Fine-tune - MobileNetV2 - Original size|???|0.384|0.371|???|29845.1|
+|[139th] - Fine-tune - MobileNetV2 - Original size|???|0.373|0.362|???|12288.4|
 
 #### DenseNet121
     
