@@ -117,6 +117,8 @@
 |[164th] - Xception - Preprocess - GbAvgPool2D|???|0.536|0.544|???|13364.3|
 |[165th] - Xception - Preprocess - GbAvgPoo2D Drop|???|0.539|0.549|???|14961|
 |[167th] - Xception - Preprocess - GbAvgPool2D|???|0.515|0.522|???|13829.2|
+|[168th] - Xception - Monitor F2 0.15|???|0.528|0.545|???|21656.3|
+|[169th] - Xception - Monitor F2 0.5|???|0.533|0.523|???|13909.1|
 
 #### ResNet50
     
