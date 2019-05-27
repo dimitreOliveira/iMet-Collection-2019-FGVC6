@@ -119,6 +119,19 @@
 |[167th] - Xception - Preprocess - GbAvgPool2D|???|0.515|0.522|???|13829.2|
 |[168th] - Xception - Monitor F2 0.15|???|0.528|0.545|???|21656.3|
 |[169th] - Xception - Monitor F2 0.5|???|0.533|0.523|???|13909.1|
+|[170th] - Xception - Preprocess - Zoom range|???|0.537|0.543|???|23484.2|
+|[171th] - Xception - Preprocess - Shear range|???|0.535|0.545|???|21671.4|
+|[172th] - Xception - Preprocess - Brightness range|???|0.531|0.542|???|15952.9|
+|[173th] - Xception - Preprocess - ZCA whitening|???|0.517|0.525|???|14745.8|
+|[174th] - Xception - Preprocess - Rotation range|???|0.538|0.528|???|27355.8|
+|[175th] - Xception - Preprocess - Shift range|???|0.539|0.555|???|25271.9|
+|[176th] - Xception - Preprocess|???|0.536|0.538|???|26442.3|
+|[177th] - Xception - Preprocess|???|0.528|0.529|???|25173.5|
+|[178th] - Xception - Preprocess - Batch 128|???|0.539|0.543|???|26083.3|
+|[179th] - Xception - Preprocess - 160x160|???|0.527|0.533|???|28154.7|
+|[180th] - Xception - Preprocess2|???|0.537|0.551|???|27944.2|
+|[181th] - Xception - Focal loss|???|0.525|0.538|???|28432.4|
+|[182th] - Xception - Preprocess - LR 0.0001|???|0.524|0.536|???|29234.1|
 
 #### ResNet50
     
