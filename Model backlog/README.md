@@ -132,6 +132,12 @@
 |[180th] - Xception - Preprocess2|???|0.537|0.551|???|27944.2|
 |[181th] - Xception - Focal loss|???|0.525|0.538|???|28432.4|
 |[182th] - Xception - Preprocess - LR 0.0001|???|0.524|0.536|???|29234.1|
+|[183th] - Xception - Step 1|???|0.534|0.547|???|31257.1|
+|[184th] - Xception - One Cycle LR|???|0.544|0.555|???|30820.5|
+|[185th] - Xception - One Cycle LR 0.0001|???|0.522|0.534|???|30760.5|
+|[186th] - Xception - Step 2.1|???|0.518|0.531|???|12229|
+|[187th] - Xception - Step 2.2|???|0.523|0.537|???|8513.6|
+|[188th] - Xception - CycleLR - CompleteSet Thresh|???|0.542|0.556|???|23510.4|
 
 #### ResNet50
     
