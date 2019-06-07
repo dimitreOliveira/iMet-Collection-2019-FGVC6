@@ -138,6 +138,21 @@
 |[186th] - Xception - Step 2.1|???|0.518|0.531|???|12229|
 |[187th] - Xception - Step 2.2|???|0.523|0.537|???|8513.6|
 |[188th] - Xception - CycleLR - CompleteSet Thresh|???|0.542|0.556|???|23510.4|
+|[189th] - Xception - Cycle LR - 1024 Head|???|0.533|0.543|???|22814.2|
+|[190th] - Xception - Cycle LR - 2048 Head|0.518|0.525|???|21370.4|
+|[191th] - Xception - CycleLR|???|0.539|0.546|???|24187.9|
+|[192th] - Xception - LR Step decay|???|0.529|0.540|???|22190.8|
+|[193th] - Xception - Cycle LR - Batch head|???|0.535|0.549|???|29395|
+|[194th] - Xception - Cycle LR - Batch head2|???|0.505|0.514|???|31851.4|
+|[195th] - Xception - Cycle LR - WarmUp|???|0.544|0.553|???|28310.9|
+|[198th] - Xception - Cycle LR - Batch head - 128|???|0.499|0.507|???|28778.7|
+|[199th] - Xception - K Fold 1|???|0.545|0.556|???|22792.7|
+|[200th] - Xception - K Fold 2|???|0.544|0.554|???|23876.5|
+|[201th] - Xception - K Fold 3|???|0.542|0.553|???|23159.5|
+|[202th] - Xception - K Fold 4|???|0.544|0.553|???|24212.6|
+|[203th] - Xception - K Fold 5|???|0.546|0.556|???|22804.3|
+|[204th] - Xception - K Fold blending|???|???|0.434|???|902.6|
+|[205th] - Xception - K Fold blending 2|???|???|0.434|???|1194.2|
 
 #### ResNet50
     
@@ -161,6 +176,7 @@
 |[160th] - ResNet50 - 1024 Head|???|0.532|0.540|???|19384.3|
 |[161th] - ResNet50 - GbAvgPool2D|???|0.473|0.477|???|13972.8|
 |[166th] - ResNet50 - GbAvgPool2D Drop|???|0.527|0.535|???|17896.3|
+|[196th] - ResNet50 - Cycle LR|???|0.510|0.515|???|11320.9|
 
 #### MobileNetV2
 
@@ -201,6 +217,7 @@
 |[121th] - Fine-tune - DenseNet121 - Complete 2 Opt|???|0.470|0.479|???|28894.8|
 |[131th] - Fine-tune - DenseNet121 - Complete Adam 128|???|0.494|0.5|???|17732.5|
 |[140th] - Fine-tune - DenseNet121 - Original size|???|0.393|0.386|???|11661.8|
+|[197th] - DenseNet121 - Cycle LR|???|0.412|0.405|???|11311.3|
 
 #### DenseNet169
     
