@@ -139,7 +139,7 @@
 |[187th] - Xception - Step 2.2|???|0.523|0.537|???|8513.6|
 |[188th] - Xception - CycleLR - CompleteSet Thresh|???|0.542|0.556|???|23510.4|
 |[189th] - Xception - Cycle LR - 1024 Head|???|0.533|0.543|???|22814.2|
-|[190th] - Xception - Cycle LR - 2048 Head|0.518|0.525|???|21370.4|
+|[190th] - Xception - Cycle LR - 2048 Head|???|0.518|0.525|???|21370.4|
 |[191th] - Xception - CycleLR|???|0.539|0.546|???|24187.9|
 |[192th] - Xception - LR Step decay|???|0.529|0.540|???|22190.8|
 |[193th] - Xception - Cycle LR - Batch head|???|0.535|0.549|???|29395|
